@@ -1,0 +1,11 @@
+{
+  "name":"Школьный Помощник",
+  "short_name":"Школьный Помощник",
+  "description":"Домашка, оценки, цели и распознавание расписания.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#0e1020",
+  "theme_color":"#8057e8",
+  "lang":"ru",
+  "icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
